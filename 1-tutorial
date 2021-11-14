@@ -1,0 +1,43 @@
+1. The OR Symbol
+    A|B
+A|Z	 A
+
+
+2. A range of characters
+      [ABC]
+[BDF]		B
+
+
+3. Characters NOT to include
+      [^AB]
+[ABC]   C
+
+4. Zero or more 
+      A*
+A     A
+AB*   A
+
+5. Zero or one 
+      A?B?
+A|C    A
+B      B
+
+6. One or more
+      A+
+A|B		A
+A|Z		A
+
+7. Backreference
+      (A)\1
+A|B		  A
+A|B		  A
+
+8. Specific amount
+      A{2,}
+A{1}		A
+B|A	    A
+
+9. Space
+              A|\s
+\s	 (literal space character)
+

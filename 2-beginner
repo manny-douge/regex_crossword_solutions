@@ -1,0 +1,32 @@
+1. Beatles
+          [^SPEAK]+   EP|IP|EF
+HE|LL|O+      H         E
+[PLEASE]+     L         P 
+
+
+2. Naughty
+              (A|B|C)\1   (AB|OE|SK)
+.*M?O.*          B           O
+(AN|FE|BE)       B           E
+
+
+3. Ghost
+              [COBRA]+ (AB|O|OR)+
+(.)+\1           O        O
+[^ABRC]          O        O
+
+
+4. Symbolism
+
+       .?.+    .+
+[*]+	  *		   *
+/+      /      /
+
+
+5. Airstrip One
+           \d[2480]  56|94|73
+18|19|20      1         9
+[6789]\d      8         4
+
+
+
