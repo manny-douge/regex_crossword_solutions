@@ -1,4 +1,4 @@
-# regex_crossword_solutions
+# RegEx crossword solutions 😼
 A silly repo for holding my answers from [regexcrossword.com](https://regexcrossword.com)!
 
 Hoping to finish all of these before the end of year, somehow these are kind of fun. Not sure why. 🐥
