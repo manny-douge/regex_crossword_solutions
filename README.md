@@ -7,7 +7,8 @@ For example, take problem 1:
 
 #  Level 1: The OR symbol..
 In this example, the goal is to enter the correct regex into the square that fufills all of the surrounding regex.
-RegEx | swappe for "or" for markdown table compliance 😭.
+NOTE:   RegEx | swapped for "or" for markdown table compliance 😭.
+
 |  | A or B |
 | ------ | ------ |
 | A or Z | ? |
